@@ -148,8 +148,4 @@ footer nav a {
 .box{
     background-color:teal;
 }
-.navigation{
-    display: flex;
-    justify-content: space-between;
-    align-content: center;
-}
+
