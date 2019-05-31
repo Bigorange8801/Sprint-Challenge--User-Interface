@@ -149,3 +149,14 @@ footer nav a {
     background-color:teal;
 }
 
+header nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+header nav a{
+    display: flex;
+   align-content: space-between;
+}
