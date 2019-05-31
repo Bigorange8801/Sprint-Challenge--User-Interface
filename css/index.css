@@ -276,6 +276,6 @@ header nav a{
 }
 .btn{
     width:35%;
-    border-radius: 55%;
+    border-radius: 5%;
     justify-content: end;
 }
