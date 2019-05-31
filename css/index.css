@@ -145,10 +145,6 @@ footer nav a {
     text-decoration: none;
 }
 
-.box{
-    background-color:teal;
-}
-
 header nav {
     width: 60%;
     display: flex;
@@ -160,3 +156,4 @@ header nav a{
     display: flex;
    align-content: space-between;
 }
+
